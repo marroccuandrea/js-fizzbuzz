@@ -5,9 +5,15 @@
     justify-content: center;
     align-items: center;
     background-color: cadetblue;
-    border: 1px solid black;
     margin: 5px;
     color: white;
+    border-radius: 10px;
+    
+  }
+
+  .box:hover{
+    box-shadow: 1px 1px 2px black;
+    transition: 150ms;
   }
 
   .box.box-3{
