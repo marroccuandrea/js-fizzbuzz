@@ -1,0 +1,23 @@
+.box{
+    width: 60px;
+    height: 60px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: cadetblue;
+    border: 1px solid black;
+    margin: 5px;
+    color: white;
+  }
+
+  .box.box-3{
+    background-color: red;
+  }
+
+  .box.box-5{
+    background-color: green;
+  }
+
+  .box.box-5-3{
+    background-color: gold;
+  }
